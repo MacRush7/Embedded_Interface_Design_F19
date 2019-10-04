@@ -8,6 +8,6 @@ Thanks.
 
 # Repository Overview
 
-**Project Description:** (Tentative) Embedded SRT UI & Database management for a Cloud Server
+**Super-Project Description:** (Tentative) Embedded SRT UI & Database management for a Cloud Server
 
 Designing and developing a Raspbian-based SRT embedded server design using Node.js, HTML, CSS, jQuery, QT GUI, MySQL, AWS Cloud Services and basic Python development.
