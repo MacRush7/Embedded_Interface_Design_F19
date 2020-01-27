@@ -1,0 +1,9 @@
+[submodule "Submodules/ecen5783-eid-project1-f19-rushi-poorn"]
+	path = Submodules/ecen5783-eid-project1-f19-rushi-poorn
+	url = git@github.com:MacRush7/ecen5783-eid-project1-f19-rushi-poorn.git
+[submodule "Submodules/ecen5783-eid-project2-f19-rushi-poorn"]
+	path = Submodules/ecen5783-eid-project2-f19-rushi-poorn
+	url = git@github.com:MacRush7/ecen5783-eid-project2-f19-rushi-poorn.git
+[submodule "Submodules/eid-project-3"]
+	path = Submodules/eid-project-3
+	url = git@github.com:MacRush7/eid-project-3.git

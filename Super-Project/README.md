@@ -1,5 +1,28 @@
-# Super-Project Repository
+# ECEN 5783 EID SUPER PROJECT (PROJECTS 4-6) (Fall-2019)
 
-This folder contains the final course project (Super-Project) for the ECEN 5783 Embedded Interface Design (EID) Fall-2019 Course.
+**Project Collaborators/Developers:**
 
-**The Super-Project is spread throughout Projects 4 through 6. Thanks.**
+1. **Rushi James Macwan**
+2. **Poorn Mehta**
+
+# Repository Overview
+
+This repository is fully owned by **Rushi James Macwan** and **Poorn Mehta**. All content on this repository is solely the work of **Rushi James Macwan** and **Poorn Mehta**. However, all external support and guidance taken in completing the work available on this repository has been clearly cited and credited wherever necessary as per the course guidelines.
+
+For references, please explore the files available in the main directory which contains an exhaustive list of all the external resources that were utilized and resourceful in completing this project.
+
+**Please Note:** This repository has been built around the same design as the one created for all previous class project submissions which was authored by the same collaborators/developers.
+
+Previous project repositories will be added as submodules to keep a consistent track on the project development. Thanks.
+
+# Installation Instructions
+
+# Project Work
+
+# Project Additions
+
+# Project Issues
+
+# Associated repositories outside the scope of ECEN 5783
+
+The repository used to develop the [Remote Operator Side](https://github.com/cu-ecen-5013/final-project-assignment-MacRush7) of the project falls under the scope of the project segments built in ECEN 5013 Advanced Embedded Software Development.
